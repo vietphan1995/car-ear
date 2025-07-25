@@ -14,5 +14,7 @@ Car ear supports driver knowledge about traffic status, trace back accident, tri
 
 ![image.png](image.png)
 
+[back to projects …](https://github.com/vietphan1995/projects)
+
 ### Notes
 https://six-zinc-ad4.notion.site/Car-ear-1b25e832d6ee80fe8dd1faf3d5b8a783
